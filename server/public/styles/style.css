@@ -1,0 +1,44 @@
+/*<style>*/
+/*.carousel-inner > .item > img,*/
+/*.carousel-inner > .item > a > img {*/
+    /*width: 70%;*/
+    /*margin: auto;*/
+/*}*/
+/*</style>*/
+
+.carousel-inner, .item, img, a {
+    width: 70%;
+    margin: auto;
+}
+.carousel-inner {
+    height: auto;
+    background-size: 100% 100%;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
+
+.title {
+    display: inline-block;
+    height: 250px;
+    border-bottom: solid;
+}
+
+.cat-left, .cat-right {
+   height: 100px;
+   width: 100px;
+
+}
+.cat-left{
+    float: left;
+    margin-left:5% ;
+}
+.cat-right{
+    float: right;
+    margin-right: 5%;
+}
+.carousel {
+    height: 500px;
+}

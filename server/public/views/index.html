@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Kappa Carousel</title>
+    <link rel="shortcut icon" href="/assets/images/KappacatBlue.png">
+    <!--scripts-->
+    <script src="vendor/angular/angular.min.js"></script>
+    <script src="vendor/angular-route/angular-route.min.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="assets/scripts/client.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--style-->
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/styles/style.css">
+    <base href="/">
+
+</head>
+<body ng-controller="MainController">
+<nav class="navbar navbar-inverse">
+    <div class="container">
+        <ul class="nav nav-pills">
+            <li><a href="/kappa" >Kappa Cohort</a></li>
+            <li><a href="/theta" >Theta Cohort</a></li>
+            <li><a href="/charlie" >The Resurrection of Charles Angus</a></li>
+            <!--<li><a href="/cohort/kappa">Kappa</a></li>-->
+            <!--<li><a href="/cohort/theta">Theta</a></li>-->
+            <!--<li><a href="/cohort/charlie">Life and Times of Charles Angus</a></li>-->
+        </ul>
+    </div>
+</nav>
+
+<div class="container title text-center col-md-12">
+    <h1>
+        <img ng-src="{{cat}}" class="img-responsive cat-left">
+        {{title}}
+        <img ng-src="{{cat}}" class="img-responsive cat-right">
+    </h1>
+
+</div>
+
+<div ng-view> why do u hate me so ng-view</div>
+
+</body>
+</html>
