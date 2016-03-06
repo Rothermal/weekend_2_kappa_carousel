@@ -1,120 +1,143 @@
 {
     "kappa" : [
-    {
-        "name" : "Joette Poehler",
-        "location" : "Detroit Lakes, MN",
-        "spirit_animal" : "Sea Otter",
-        "shoutout" : "I also want to thank Joette on a couple of things. She is always good for a conversation and always makes me feel included, plus it was her idea to have the candy in the classroom and that is just super amazing in the afternoon when we have a short break during lectures."
-    },{
-        "name" : "Riley Harrison",
-        "location" : "New Jersey",
-        "spirit_animal" : "The Fox",
-        "shoutout" : "Riley Harrison. that dude's a conceptual wizard."
-    },{
-        "name" : "Matthew Keymer",
-        "location" : "Plymouth, MN",
-        "spirit_animal" : "Grizzly Bear",
-        "shoutout" : "I'd like to give a shoutout to matt. we were both in the classroom on sunday working for several hours on our homework. I reached a spot where I thought all my code was right, and he offered an extra set of eyes on it. Turns out i made one mistake and then it all worked. it was really nice / awesome of him to help me out!"
-    },{
-        "name" : "Michael Carlson",
-        "location" : "Minneapolis",
-        "spirit_animal" : "Panda",
-        "shoutout" : "Shout out to Michael at toastmasters, very good job on his table-topic speech!"
-    },{
-        "name" : "Miles Johnson",
-        "location" : "Minnesota",
-        "spirit_animal" : "Lumpy Space Princess from Adventure Time",
-        "shoutout" : "Shoutout to Miles giving his speech about being a single parent, taking care of two kids while attending Prime was inspiring. That's not an easy thing to do at all and I was very impressed with him."
-    },{
-        "name" : "Biz Cook",
-        "location" : "Wisconsin",
-        "spirit_animal" : "Possum eating donuts (Google it)",
-        "shoutout" : "My first duo project with Biz went great. She was easy and fun to work with and we got our project done pretty quickly."
-    },{
-        "name" : "Tracey Van Haaften",
-        "location" : "St. Paul, Minnesota",
-        "spirit_animal" : "Domestic house cat",
-        "shoutout" : "i'd also like to shout out to tracey. she has been an amazing desk buddy both in terms of working well together and just talking about non-development things. we nailed both of our in class peer assignments last week which was exciting."
-    },{
-        "name" : "Michelle Wang",
-        "location" : "China",
-        "spirit_animal" : "Panther",
-        "shoutout" : "Thanks to my new neighbor Michelle for being herself. Her enthusiasm is catching."
-    },{
-        "name" : "Hank Andre",
-        "location" : "Minneapolis, MN",
-        "spirit_animal" : "Red Panda",
-        "shoutout" : "Hank shared me his notes! Thank you Hank!"
-    },{
-        "name" : "Tommy Chester",
-        "location" : "Woodstock, Vermont",
-        "spirit_animal" : "Elk",
-        "shoutout" : "Tommy had a good speech!"
-    },{
-        "name" : "Neil Skupa",
-        "location" : "White Bear Lake, MN",
-        "spirit_animal" : "Wolf",
-        "shoutout" : "Neil, Thank you for sharing your stories! You are incredibly kind and easy to talk to and I appreciate your genuine interest in others."
-    },{
-        "name" : "Ryan Mulcahy",
-        "location" : "Bloomington, MN",
-        "spirit_animal" : "Manatee",
-        "shoutout" : "Thanks to Ryan for helping me on a Jquery thing that was easy but I just missed something on."
-    },{
-        "name" : "Evan Kimlinger",
-        "location" : "North Saint Paul, MN",
-        "spirit_animal" : "Giraffe",
-        "shoutout" : "Shout out to Evan for helping bring the Kappa Kat to life and turning it into a sweet icon. "
-    },{
-        "name" : "Mark Rothermal",
-        "location" : "St. Louis Park, Mn",
-        "spirit_animal" : "Turtle",
-        "shoutout" : "Shout out to Mark for checking on me and offering to help me understand the code."
-    },{
-        "name" : "Brady Peterson",
-        "location" : "Fennimore, WI",
-        "spirit_animal" : "Golden Eagle",
-        "shoutout" : "Thank you Brady for being a helpful and supportive teammate."
-    },{
-        "name" : "Roman Hibert",
-        "location" : "Kabardino-Balkaria Republic",
-        "spirit_animal" : "Tiger",
-        "shoutout" : "Roman, You are a genuine individual and you inspire me to be as open as you."
-    },{
-        "name" : "Aaron McGrath",
-        "location" : "Rochester, MN",
-        "spirit_animal" : "Husky",
-        "shoutout" : "Shoutout to aaron! He is always really positive and engaged in conversation. It has been nice sitting across from him!"
-    },{
-        "name" : "Carl Peaslee",
-        "location" : "Minnetonka, Minnesota",
-        "spirit_animal" : "Kanye West Leopard Print",
-        "shoutout" : "Shoutout to CARL. for always making up stupid games during lunch with me! it has been super fun and a nice way to get away from the computer!"
-    },{
-        "name" : "Jeremy Hjelmeland",
-        "location" : "Riceville, IA",
-        "spirit_animal" : "Liger",
-        "shoutout" : "Shout out to Jeremy for contributing to our project in unique and critical ways."
-    },{
-        "name" : "Mike Elliott",
-        "location" : "Monrovia, Liberia",
-        "spirit_animal" : "Tiger",
-        "shoutout" : "Mike Elliott, this guy always makes me smile."
-    },{
-        "name" : "Kenzie Bultema",
-        "location" : "Eagan, MN",
-        "spirit_animal" : "Snow Leopard",
-        "shoutout" : "Kenzie was wonderful during our team challenge, she was thoughtful, considerate and patient."
-    },{
-        "name" : "Scott Bromander",
-        "location" : "Bloomington, MN",
-        "spirit_animal" : "Binturong",
-        "shoutout" : "It was really touching and cool that Scott opened up the way he did, which kind of opens the door to everyone feeling more vulnerable with their speeches."
-    },{
-        "name" : "Enrique Ortega",
-        "location" : "Sioux Falls, SD",
-        "spirit_animal" : "Pug",
-        "shoutout" : "Shout out to Enrique to sharing his very deep story. It was very touching to see how he got here and reinforced how thankful I am to be in this program. Also, thank you to mark for staying after for a while to help me understand the material better."
-    }
-]
+        {
+            "name" : "Joette Poehler",
+            "location" : "Detroit Lakes, MN",
+            "spirit_animal" : "Sea Otter",
+            "spirit_url" : "/assets/images/kappanimals/seaOtter.jpg",
+            "shoutout" : "I also want to thank Joette on a couple of things. She is always good for a conversation and always makes me feel included, plus it was her idea to have the candy in the classroom and that is just super amazing in the afternoon when we have a short break during lectures."
+        },{
+            "name" : "Riley Harrison",
+            "location" : "New Jersey",
+            "spirit_animal" : "The Fox",
+            "spirit_url" : "/assets/images/kappanimals/fox.jpg",
+            "shoutout" : "Riley Harrison. that dude's a conceptual wizard."
+        },{
+            "name" : "Matthew Keymer",
+            "location" : "Plymouth, MN",
+            "spirit_animal" : "Grizzly Bear",
+            "spirit_url" : "/assets/images/kappanimals/bear.jpg",
+            "shoutout" : "I'd like to give a shoutout to matt. we were both in the classroom on sunday working for several hours on our homework. I reached a spot where I thought all my code was right, and he offered an extra set of eyes on it. Turns out i made one mistake and then it all worked. it was really nice / awesome of him to help me out!"
+        },{
+            "name" : "Michael Carlson",
+            "location" : "Minneapolis",
+            "spirit_animal" : "Panda",
+            "spirit_url" : "/assets/images/kappanimals/panda.jpg",
+            "shoutout" : "Shout out to Michael at toastmasters, very good job on his table-topic speech!"
+        },{
+            "name" : "Miles Johnson",
+            "location" : "Minnesota",
+            "spirit_animal" : "Lumpy Space Princess from Adventure Time",
+            "spirit_url" : "/assets/images/kappanimals/lumpy.jpg",
+            "shoutout" : "Shoutout to Miles giving his speech about being a single parent, taking care of two kids while attending Prime was inspiring. That's not an easy thing to do at all and I was very impressed with him."
+        },{
+            "name" : "Biz Cook",
+            "location" : "Wisconsin",
+            "spirit_animal" : "Possum eating donuts (Google it)",
+            "spirit_url" : "/assets/images/kappanimals/possum.jpg",
+            "shoutout" : "My first duo project with Biz went great. She was easy and fun to work with and we got our project done pretty quickly."
+        },{
+            "name" : "Tracey Van Haaften",
+            "location" : "St. Paul, Minnesota",
+            "spirit_animal" : "Domestic house cat",
+            "spirit_url" : "/assets/images/kappanimals/houseCat.jpg",
+            "shoutout" : "i'd also like to shout out to tracey. she has been an amazing desk buddy both in terms of working well together and just talking about non-development things. we nailed both of our in class peer assignments last week which was exciting."
+        },{
+            "name" : "Michelle Wang",
+            "location" : "China",
+            "spirit_animal" : "Panther",
+            "spirit_url" : "/assets/images/kappanimals/panther.JPG",
+            "shoutout" : "Thanks to my new neighbor Michelle for being herself. Her enthusiasm is catching."
+        },{
+            "name" : "Hank Andre",
+            "location" : "Minneapolis, MN",
+            "spirit_animal" : "Red Panda",
+            "spirit_url" : "/assets/images/kappanimals/redPanda.jpg",
+            "shoutout" : "Hank shared me his notes! Thank you Hank!"
+        },{
+            "name" : "Tommy Chester",
+            "location" : "Woodstock, Vermont",
+            "spirit_animal" : "Elk",
+            "spirit_url" : "/assets/images/kappanimals/elk.jpg",
+            "shoutout" : "Tommy had a good speech!"
+        },{
+            "name" : "Neil Skupa",
+            "location" : "White Bear Lake, MN",
+            "spirit_animal" : "Wolf",
+            "spirit_url" : "/assets/images/kappanimals/wolf.jpg",
+            "shoutout" : "Neil, Thank you for sharing your stories! You are incredibly kind and easy to talk to and I appreciate your genuine interest in others."
+        },{
+            "name" : "Ryan Mulcahy",
+            "location" : "Bloomington, MN",
+            "spirit_animal" : "Manatee",
+            "spirit_url" : "/assets/images/kappanimals/manatee.jpg",
+            "shoutout" : "Thanks to Ryan for helping me on a Jquery thing that was easy but I just missed something on."
+        },{
+            "name" : "Evan Kimlinger",
+            "location" : "North Saint Paul, MN",
+            "spirit_animal" : "Giraffe",
+            "spirit_url" : "/assets/images/kappanimals/giraffe.jpg",
+            "shoutout" : "Shout out to Evan for helping bring the Kappa Kat to life and turning it into a sweet icon. "
+        },{
+            "name" : "Mark Rothermal",
+            "location" : "St. Louis Park, Mn",
+            "spirit_animal" : "Turtle",
+            "spirit_url" : "/assets/images/kappanimals/turtle.jpg",
+            "shoutout" : "Shout out to Mark for checking on me and offering to help me understand the code."
+        },{
+            "name" : "Brady Peterson",
+            "location" : "Fennimore, WI",
+            "spirit_animal" : "Golden Eagle",
+            "spirit_url" : "/assets/images/kappanimals/eagle.jpg",
+            "shoutout" : "Thank you Brady for being a helpful and supportive teammate."
+        },{
+            "name" : "Roman Hibert",
+            "location" : "Kabardino-Balkaria Republic",
+            "spirit_animal" : "Tiger",
+            "spirit_url" : "/assets/images/kappanimals/tiger.jpg",
+            "shoutout" : "Roman, You are a genuine individual and you inspire me to be as open as you."
+        },{
+            "name" : "Aaron McGrath",
+            "location" : "Rochester, MN",
+            "spirit_animal" : "Husky",
+            "spirit_url" : "/assets/images/kappanimals/husky.jpg",
+            "shoutout" : "Shoutout to aaron! He is always really positive and engaged in conversation. It has been nice sitting across from him!"
+        },{
+            "name" : "Carl Peaslee",
+            "location" : "Minnetonka, Minnesota",
+            "spirit_animal" : "Kanye West Leopard Print",
+            "spirit_url" : "/assets/images/kappanimals/kanye.jpg",
+            "shoutout" : "Shoutout to CARL. for always making up stupid games during lunch with me! it has been super fun and a nice way to get away from the computer!"
+        },{
+            "name" : "Jeremy Hjelmeland",
+            "location" : "Riceville, IA",
+            "spirit_animal" : "Liger",
+            "spirit_url" : "/assets/images/kappanimals/liger.jpg",
+            "shoutout" : "Shout out to Jeremy for contributing to our project in unique and critical ways."
+        },{
+            "name" : "Mike Elliott",
+            "location" : "Monrovia, Liberia",
+            "spirit_animal" : "Tiger",
+            "spirit_url" : "/assets/images/kappanimals/tiger.jpg",
+            "shoutout" : "Mike Elliott, this guy always makes me smile."
+        },{
+            "name" : "Kenzie Bultema",
+            "location" : "Eagan, MN",
+            "spirit_animal" : "Snow Leopard",
+            "spirit_url" : "/assets/images/kappanimals/snowLeopard.jpg",
+            "shoutout" : "Kenzie was wonderful during our team challenge, she was thoughtful, considerate and patient."
+        },{
+            "name" : "Scott Bromander",
+            "location" : "Bloomington, MN",
+            "spirit_animal" : "Binturong",
+            "spirit_url" : "/assets/images/kappanimals/binturong.jpg",
+            "shoutout" : "It was really touching and cool that Scott opened up the way he did, which kind of opens the door to everyone feeling more vulnerable with their speeches."
+        },{
+            "name" : "Enrique Ortega",
+            "location" : "Sioux Falls, SD",
+            "spirit_animal" : "Pug",
+            "spirit_url" : "/assets/images/kappanimals/pug.jpg",
+            "shoutout" : "Shout out to Enrique to sharing his very deep story. It was very touching to see how he got here and reinforced how thankful I am to be in this program. Also, thank you to mark for staying after for a while to help me understand the material better."
+        }
+    ]
 }

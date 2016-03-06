@@ -1,4 +1,4 @@
-<h1 class="container text-center"> The Curious Case Of Charlie Angus</h1>
+<h1 class="container text-center"> The Curious Case Of Charles Angus</h1>
 <div class="container col-md-12 well">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
@@ -17,7 +17,8 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item" ng-repeat="image in charlie" ng-class="{active : $first}">
-                <img ng-src="{{image.img}}"  >
+
+                <img  class="img-responsive img-thumbnail" ng-src="{{image.img}}"  >
 
             </div>
 

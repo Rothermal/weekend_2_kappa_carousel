@@ -33,7 +33,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item" ng-repeat="student in students" ng-class="{active : $first}">
-                <img ng-src="" src="/assets/images/KappacatBLUE.png">
+                <img class="img-thumbnail img-responsive" ng-src="{{student.spirit_url}}">
 
                 <h3>{{student.name}}</h3>
                 <p>Hometown: {{student.location}}</p>
