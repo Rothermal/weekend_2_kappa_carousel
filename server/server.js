@@ -5,7 +5,7 @@ var express = require('express');
 var index = require('./route/index');
 var cohorts = require('./route/cohorts');
 var app = express();
-
+var herokuOrPort =  process.env.PORT || 1985;
 
 app.use(express.static('server/public'));
 
@@ -18,7 +18,7 @@ app.use('/',index);
 
 
 
-var server = app.listen(1985,function(){
+var server = app.listen(herokuOrPort,function(){
     var port = server.address().port;
     console.log('Serving Clients successfully since : ', port);
 });
