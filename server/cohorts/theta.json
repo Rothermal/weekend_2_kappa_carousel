@@ -4,7 +4,7 @@
       "name": "Paul Sotherland",
       "location": "Saint Paul",
       "animal" : "Turtle",
-      "imgurl_animal":"images/animals/turtle1.jpg",
+      "imgurl_animal":"assets/images/animals/turtle1.jpg",
       "imgurl_location":"images/cities/stPaul.jpg",
       "imgurl_people":"images/people/paul.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -12,15 +12,15 @@
       "name": "Mark Rothermal",
       "location": "Champlin",
       "animal": "Turtle",
-      "imgurl_animal":"images/animals/turtle.jpg",
+      "imgurl_animal":"assets/images/animals/turtle.jpg",
       "imgurl_location":"images/cities/champlin2.png",
       "imgurl_people":"images/people/mark.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
     }, {
-      "name": "Scott",
+      "name": "Scott Jorgenson",
       "location": "Apple Valley",
       "animal": "Dog",
-      "imgurl_animal":"images/animals/dog.jpg",
+      "imgurl_animal":"assets/images/animals/dog.jpg",
       "imgurl_location":"images/cities/appleValley.jpg",
       "imgurl_people":"images/people/scott.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -28,7 +28,7 @@
       "name":"Altamir Coelho",
       "location":"Minneapolis",
       "animal":"Lion",
-      "imgurl_animal":"images/animals/lion.jpg",
+      "imgurl_animal":"assets/images/animals/lion.jpg",
       "imgurl_location":"images/cities/Minneapolis.jpg",
       "imgurl_people":"images/people/YUNOLAZER.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -36,7 +36,7 @@
       "name":"Zach Hintgen",
       "location":"Waconia",
       "animal":"Rabbit",
-      "imgurl_animal":"images/animals/rabbit.jpg",
+      "imgurl_animal":"assets/images/animals/rabbit.jpg",
       "imgurl_location":"images/cities/waconia.jpg",
       "imgurl_people":"images/people/YUNOLAZER.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -44,7 +44,7 @@
       "name":"Sam Musselman",
       "location":"Richfield",
       "animal":"Black Bear",
-      "imgurl_animal":"images/animals/blackBear.jpg",
+      "imgurl_animal":"assets/images/animals/blackBear.jpg",
       "imgurl_location":"images/cities/richfield.jpg",
       "imgurl_people":"images/people/sam1.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -52,7 +52,7 @@
       "name":"Brooks Nagel",
       "location":"Minneapolis",
       "animal":"Puma",
-      "imgurl_animal":"images/animals/puma.jpg",
+      "imgurl_animal":"assets/images/animals/puma.jpg",
       "imgurl_location":"images/cities/Minneapolis.jpg",
       "imgurl_people":"images/people/brooks.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -60,31 +60,31 @@
       "name":"Eric Anderson",
       "location":"Minneapolis",
       "animal":"Owl",
-      "imgurl_animal":"images/animals/owl1.jpg",
+      "imgurl_animal":"assets/images/animals/owl1.jpg",
       "imgurl_location":"images/cities/Minneapolis.jpg",
       "imgurl_people":"images/people/YUNOLAZER.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
     },{
-      "name":"Nathan",
+      "name":"Nathan Briscoe",
       "location":"Edina",
       "animal":"Polar Bear",
-      "imgurl_animal":"images/animals/polarBear.jpg",
+      "imgurl_animal":"assets/images/animals/polarBear.jpg",
       "imgurl_location":"images/cities/edina.jpg",
       "imgurl_people":"images/people/YUNOLAZER.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
     },{
-      "name":"Amber",
+      "name":"Amber KillJoy",
       "location":"Plymouth",
       "animal":"Owl",
-      "imgurl_animal":"images/animals/owl.jpg",
+      "imgurl_animal":"assets/images/animals/owl.jpg",
       "imgurl_location":"images/cities/plymouth.jpg",
       "imgurl_people":"images/people/amber.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
     },{
-      "name":"Liz",
+      "name":"Liz Westberg ",
       "location":"Bloomington",
       "animal":"Wookie",
-      "imgurl_animal":"images/animals/wookie.jpg",
+      "imgurl_animal":"assets/images/animals/wookie.jpg",
       "imgurl_location":"images/cities/bloomington.jpg",
       "imgurl_people":"images/people/YUNOLAZER.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -92,7 +92,7 @@
       "name":"Matthew Reinders",
       "location":"Bloomington",
       "animal":"Thomson gazelle",
-      "imgurl_animal":"images/animals/gazelle.jpg",
+      "imgurl_animal":"assets/images/animals/gazelle.jpg",
       "imgurl_location":"images/cities/bloomington.jpg",
       "imgurl_people":"images/people/Matthew.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -100,7 +100,7 @@
       "name":"Chris Graff",
       "location":"Minneapolis",
       "animal":"Moose",
-      "imgurl_animal":"images/animals/moose.jpg",
+      "imgurl_animal":"assets/images/animals/moose.jpg",
       "imgurl_location":"images/cities/Minneapolis.jpg",
       "imgurl_people":"images/people/chris.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -108,7 +108,7 @@
       "name":"Jeremy Cloutier",
       "location":"Minneapolis",
       "animal":"Phoenix",
-      "imgurl_animal":"images/animals/phoenix.jpg",
+      "imgurl_animal":"assets/images/animals/phoenix.jpg",
       "imgurl_location":"images/cities/Minneapolis.jpg",
       "imgurl_people":"images/people/YUNOLAZER.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -116,7 +116,7 @@
       "name":"Joseph Anderson",
       "location":"Minneapolis",
       "animal":"Dolphin",
-      "imgurl_animal":"images/animals/dolphin.png",
+      "imgurl_animal":"assets/images/animals/dolphin.png",
       "imgurl_location":"images/cities/Minneapolis.jpg",
       "imgurl_people":"images/people/YUNOLAZER.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -125,7 +125,7 @@
       "name": "Scott Bromander",
       "location": "Narnia",
       "animal": "Aye-aye",
-      "imgurl_animal": "images/animals/aye_aye.jpg",
+      "imgurl_animal": "assets/images/animals/aye_aye.jpg",
       "imgurl_location": "images/cities/narnia.jpg",
       "imgurl_people": "images/people/YUNOLAZER.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -133,7 +133,7 @@
       "name":"Kenzie Bultema",
       "location":"Inver Grove Heights",
       "animal":"Snow Leopard",
-      "imgurl_animal":"images/animals/snowLeopard.jpg",
+      "imgurl_animal":"assets/images/animals/snowLeopard.jpg",
       "imgurl_location":"images/cities/inverGroveHeights1.jpg",
       "imgurl_people":"images/people/kenzie.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -141,7 +141,7 @@
       "name":"Natalie Koch",
       "location":"Minneapolis",
       "animal":"Kittyfoofoo",
-      "imgurl_animal":"images/animals/kittyFooFoo.jpg",
+      "imgurl_animal":"assets/images/animals/kittyFooFoo.jpg",
       "imgurl_location":"images/cities/Minneapolis.jpg",
       "imgurl_people":"images/people/natalie.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -149,7 +149,7 @@
       "name":"Anthony Rohr",
       "location":"Minneapolis",
       "animal":"Otter",
-      "imgurl_animal":"images/animals/otter.jpg",
+      "imgurl_animal":"assets/images/animals/otter.jpg",
       "imgurl_location":"images/cities/Minneapolis.jpg",
       "imgurl_people":"images/people/anthony2.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"
@@ -157,7 +157,7 @@
       "name": "Kristy Wessel",
       "location": "Burnsville",
       "animal": "Clumsy Cat",
-      "imgurl_animal":"images/animals/ClumsyCat.png",
+      "imgurl_animal":"assets/images/animals/ClumsyCat.png",
       "imgurl_location":"images/cities/burnsville.gif",
       "imgurl_people":"images/people/YUNOLAZER.jpg",
       "shoutout": "Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering, Transcendence through Suffering!"

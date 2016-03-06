@@ -2,6 +2,8 @@
  * Created by JFCS on 3/4/16.
  */
 var app = angular.module('myApp', ['ngRoute']);
+
+
 var globalKappa = [];
 var globalTheta =[];
 var globalCharlie =[];
@@ -41,6 +43,9 @@ app.controller('MainController',['$scope','$http',function($scope,$http){
         $http.get('/cohort/kappa').then(function (response) {
             console.log(response.data.kappa);
             globalKappa = response.data.kappa;
+            //for(var i = 0; i< globalKappa.length;i++){
+            //    globalKappa[i].carouselIndex = i ;
+            //}
         });
     };
 
@@ -74,11 +79,11 @@ app.controller('ThetaController',['$scope',function($scope){
 }]);
 
 app.controller('CharlieController',['$scope',function($scope){
-        $scope.students = globalCharlie;
+        $scope.charlie = globalCharlie;
 
 }]);
 
 app.controller('HomeController',['$scope',function($scope){
-   $scope.title = 'Some stuff goes here';
+   $scope.title = 'Click the Tabs above to pick a cohort.';
 
 }]);

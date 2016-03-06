@@ -17,7 +17,7 @@ router.get('/cohort/theta',function(request,response){
 
 router.get('/cohort/charlie',function(request,response){
     console.log('charlie lives and dies in here');
-    response.sendFile(path.join(__dirname,"../cohorts/kappa.json"));
+    response.sendFile(path.join(__dirname,"../cohorts/charlie.json"));
 });
 
 
