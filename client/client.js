@@ -68,35 +68,35 @@ app.controller('MainController',['$scope','$http',function($scope,$http){
 
     $scope.kappa = function() {
         $http.get('/cohort/kappa').then(function (response) {
-            console.log(response.data.kappa);
+            //console.log(response.data.kappa);
             globalKappa = response.data.kappa;
         });
     };
 
     $scope.theta = function() {
         $http.get('/cohort/theta').then(function (response) {
-            console.log(response.data.people);
+            //console.log(response.data.people);
             globalTheta = response.data.people;
         });
     };
 
     $scope.gamma = function() {
         $http.get('/cohort/gamma').then(function (response) {
-            console.log(response.data.gamma);
+            //console.log(response.data.gamma);
             globalGamma = response.data.gamma;
         });
     };
 
     $scope.epsilon = function() {
         $http.get('/cohort/epsilon').then(function (response) {
-            console.log(response.data.epsilon);
+            //console.log(response.data.epsilon);
             globalEpsilon = response.data.epsilon;
         });
     };
 
     $scope.zeta = function() {
         $http.get('/cohort/zeta').then(function (response) {
-            console.log(response.data.zeta);
+            //console.log(response.data.zeta);
             globalZeta = response.data.zeta;
         });
     };
@@ -104,7 +104,7 @@ app.controller('MainController',['$scope','$http',function($scope,$http){
 
     $scope.iota = function() {
         $http.get('/cohort/iota').then(function (response) {
-            console.log(response.data.people);
+            //console.log(response.data.people);
             globalIota = response.data.people;
             for(var i = 0; i<globalIota.length;i++)
             grabMoviePoster(globalIota[i]);
@@ -113,7 +113,7 @@ app.controller('MainController',['$scope','$http',function($scope,$http){
 
     $scope.eta = function() {
         $http.get('/cohort/eta').then(function (response) {
-            console.log(response.data.eta);
+            //console.log(response.data.eta);
             globalEta = response.data.eta;
             for(var i = 0; i<globalEta.length;i++)
                 grabEtaMoviePoster(globalEta[i]);
@@ -122,7 +122,7 @@ app.controller('MainController',['$scope','$http',function($scope,$http){
 
     $scope.charlie = function() {
         $http.get('/cohort/charlie').then(function (response) {
-            console.log(response.data);
+            //console.log(response.data);
             globalCharlie = response.data;
         });
     };

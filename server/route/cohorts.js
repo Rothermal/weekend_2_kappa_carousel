@@ -47,19 +47,16 @@ router.get('/cohort/eta',function(request,response){
 });
 
 router.get('/cohort/movie/:id',function(req,res){
-    //console.log('movie route fired');
-    //console.log(req.params.id);
+
     var movieTitle = req.params.id;
     var url = "http://www.omdbapi.com/?";
     var results = {};
-    //console.log(movieName);
     needle.request('get',url,
         {
        "t":movieTitle,
        "r":"json"
         },
        function(error,response){
-           //console.log(response.body.Title);
            results = response.body.Poster;
            //console.log(results);
            res.send(results);
