@@ -2,6 +2,8 @@ Weekend 2 Kappa Carousel.
 
 built a few carousels using json files, bootstrap, angular and ng-view to switch between the carousels.
 
+can be found on heroku @ https://glacial-castle-15553.herokuapp.com/
+
 stretch goals,
 
 1. need to move global variables and http calls into app.factories instead.
