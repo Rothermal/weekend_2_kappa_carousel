@@ -1,0 +1,521 @@
+{
+  "eta": [
+    {
+      "firstName": "Adia",
+      "lastName": "Alderson",
+      "favoriteFoods": [
+        "Tomato Basil Soup",
+        "Hummus",
+        "Tofu Pad Thai"
+      ],
+      "hotLineBling": false,
+      "favoriteMovies": [
+        {
+          "movieName": "Gattaca",
+          "releaseYear": 1997
+        },
+        {
+          "movieName": "Cloud Atlas",
+          "releaseYear": 2012
+        },
+        {
+          "movieName": "Big Fish",
+          "releaseYear": 2003
+        },
+        {
+          "movieName": "Spiderman",
+          "releaseYear": 2002
+        },
+        {
+          "movieName": "The Fountain",
+          "releaseYear": 2006
+        }
+      ]
+    },
+    {
+      "firstName": "Amanda",
+      "lastName": "Bausch",
+      "favoriteFoods": [
+        "tacos",
+        "pie",
+        "cake",
+        "quacamole",
+        "eggs"
+      ],
+      "hotLineBling": false,
+      "favoriteMovies": [
+        {
+          "movieName": "The Fifth Element",
+          "releaseYear": 1997
+        },
+        {
+          "movieName": "How to Train Your Dragon",
+          "releaseYear": 2010
+        },
+        {
+          "movieName": "Serenity",
+          "releaseYear": "2005"
+        }
+      ]
+    },
+    {
+      "firstName": "Andrew",
+      "lastName": "Dourgarian",
+      "favoriteFoods": [
+        "Burgers",
+        "Spaghetti",
+        "steak"
+      ],
+      "hotLineBling": "false",
+      "favoriteMovies": [
+        {
+          "movieName": "Kung fu Panda",
+          "releaseYear": "2008"
+        },
+        {
+          "movieName": "21 Jump Street",
+          "releaseYear": "2012"
+        }
+      ]
+    },
+    {
+      "firstName": "Andrew",
+      "lastName": "Harasymiw",
+      "favoriteFoods": [
+        "oatmeal",
+        "pizza",
+        "nachaos",
+        "black bean soup",
+        "potatoes"
+      ],
+      "hotLineBling": true,
+      "favoriteMovies": [
+        {
+          "movieName": "Lock, Stock and Two Smoking Barrels",
+          "releaseYear": "1998"
+        },
+        {
+          "movieName": "Office Space",
+          "releaseYear": "1999"
+        },
+        {
+          "movieName": "Monty Python and The Holy Grail",
+          "releaseYear": "1975"
+        }
+      ]
+    },
+    {
+      "firstName": "Ben",
+      "lastName": "Margis",
+      "favoriteFoods": [
+        "Tacos",
+        "Spaghetti",
+        "Pulled Pork"
+      ],
+      "hotLineBling": false,
+      "favoriteMovies": [
+        {
+          "movieName": "Aliens",
+          "releaseYear": "1986"
+        },
+        {
+          "movieName": "The Blues Brothers",
+          "releaseYear": "1981"
+        }
+      ]
+    },
+    {
+      "firstName": "Greatest",
+      "lastName": "Ever",
+      "favoriteFoods": [
+        "mac and cheese",
+        "just cheese",
+        "cookie butter"
+      ],
+      "hotLineBling": "true",
+      "favoriteMovies": [
+        {
+          "movieName": "Clueless",
+          "releaseYear": 1995
+        },
+        {
+          "movieName": "The Room",
+          "releaseYear": 2003
+        }
+      ]
+    },
+    {
+      "firstName": "Charlotte",
+      "lastName": "Kroening",
+      "favoriteFoods": "[spaghetti, Chinese food, strawberries, chocolate]",
+      "hotLineBling": "false",
+      "favoriteMovies": [{
+        "movieName":"Good Will Hunting",
+        "releaseYear": 1997
+      },
+        {"movieName": "Rocketman",
+          "releaseYear": 1997
+        }
+      ]
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Arnesen",
+      "favoriteFoods": [
+        "pizza",
+        "nachos",
+        "burritos"
+      ],
+      "hotLineBling": false,
+      "favoriteMovies": [
+        {
+          "movieName": "Star Wars",
+          "releaseYear": "1977"
+        },
+        {
+          "movieName": "The Empire Strikes Back",
+          "releaseYear": "1980"
+        },
+        {
+          "movieName": "The Return of the Jedi",
+          "releaseYear": "1981"
+        }
+      ]
+    },
+    {
+      "firstName": "Clayton",
+      "lastName": "Hottinger",
+      "favoriteFoods": [
+        "Thai",
+        "Italian",
+        "beef short ribs"
+      ],
+      "hotLineBling": false,
+      "favoriteMovies": [
+        {
+          "movieName": "Edward ScissorHands",
+          "releaseYear": 1990
+        },
+        {
+          "movieName": "Inside Llewyn Davis",
+          "releaseYear": 2013
+        },
+        {
+          "movieName": "The Big Lebowski",
+          "releaseYear": 1998
+        },
+        {
+          "movieName": "Star Wars",
+          "releaseYear": "1977-1983"
+        }
+      ]
+    },
+    {
+      "firstName": "Connor",
+      "lastName": "Klausing",
+      "favoriteFoods": [
+        "Burgers",
+        "Pad Thai",
+        "Chocolate chip cookies"
+      ],
+      "hotLineBling": true,
+      "favoriteMovies": [
+        {
+          "movieName": "Waking Life",
+          "releaseYear": 2001
+        },
+        {
+          "movieName": "Up",
+          "releaseYear": 2009
+        },
+        {
+          "movieName": "The Big Lebowski",
+          "releaseYear": 1998
+        }
+      ]
+    },
+    {
+      "firstName": "Derek",
+      "lastName": "Roche",
+      "favoriteFoods": [
+        "pizza",
+        "soup",
+        "sandwiches"
+      ],
+      "hotLineBling": false,
+      "favoriteMovies": [
+        {
+          "movieName": "Top Gun",
+          "releaseYear": "1986"
+        },
+        {
+          "movieName": "Jurassic Park",
+          "releaseYear": "1993"
+        }
+      ]
+    },
+    {
+      "firstName": "Gwen",
+      "lastName": "Paul",
+      "favoriteFoods": [
+        "steak",
+        "icecream",
+        "oyster",
+        "mango"
+      ],
+      "hotLineBling": false,
+      "favoriteMovies": [
+        {
+          "movieName": "Knocked Up",
+          "releaseYear": "2007"
+        },
+        {
+          "movieName": "The Town",
+          "releaseYear": "2010"
+        }
+      ]
+    },
+    {
+      "firstName": "James",
+      "lastName": "Kirwin",
+      "favoriteFood": "['enchiladas', 'pizza', 'Mac and Cheese']",
+      "hotLineBling": "false",
+      "favoriteMovies": [
+        {
+          "movieName": "The Fifth Element",
+          "releaseYear": 1997
+        },
+        {
+          "movieName": "Nightwatch",
+          "releaseYear": 2004
+        },
+        {
+          "movieName": "Love Actually",
+          "releaseYear": 2003
+        }
+      ]
+    },
+    {
+      "firstName": "John",
+      "lastName": "Crimmings",
+      "favoriteFoods": "['cheese', 'thai', 'mexican']",
+      "hotLineBling": "false",
+      "favoriteMovies": [
+        {
+          "movieName": "The Big Lebowski",
+          "releaseYear": "1998"
+        },
+        {
+          "movieName": "The Royal Tenenbaums",
+          "releaseYear": "2001"
+        },
+        {
+          "movieName": "Dumb and Dumber",
+          "releaseYear": "1994"
+        }
+      ]
+    },
+    {
+      "firstName": "Keisha",
+      "lastName": "Josephs",
+      "favoriteFood": [
+        "oxtail",
+        "platanos",
+        "roti",
+        "pizza",
+        "soup"
+      ],
+      "hotLineBling": true,
+      "favoriteMovies": [
+        {
+          "movieName": "The Hunger Games",
+          "releaseYear": 2012
+        },
+        {
+          "movieName": "Interstellar",
+          "releaseYear": 2014
+        },
+        {
+          "movieName": "Princess Mononoke",
+          "releaseYear": 1997
+        }
+      ]
+    },
+    {
+      "firstName": "Kyra",
+      "lastName": "Crowston",
+      "favoriteFoods": [
+        "pie",
+        "gyros",
+        "sushi"
+      ],
+      "hotLineBling": "true",
+      "favoriteMovies": [
+        {
+          "movieName": "Trainwreck",
+          "releaseYear": "2015"
+        },
+        {
+          "movieName": "The Anchorman",
+          "releaseYear": "2004"
+        }
+      ]
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Alvarez",
+      "favoriteFoods": [
+        "Pho",
+        "Spring Rolls",
+        "Ceviche"
+      ],
+      "hotLineBling": true,
+      "favoriteMovies": [
+        {
+          "movieName": "City of God",
+          "releaseYear": 2002
+        },
+        {
+          "movieName": "Army of Darkness",
+          "releaseYear": 1992
+        }
+      ]
+    },
+    {
+      "firstName": "Moni",
+      "lastName": "Francesca",
+      "favoriteFoods": [
+        "Sushi",
+        "Maf&eacute;",
+        "Guava",
+        "Green Curry"
+      ],
+      "hotLineBling": "true",
+      "favoriteMovies": [
+        {
+          "movieName": "Apocalypse Now",
+          "releaseYear": 1979
+        },
+        {
+          "movieName": "The Godfather",
+          "releaseYear": 1972
+        },
+        {
+          "movieName": "Away From Her",
+          "releaseYear": 2006
+        },
+        {
+          "movieName": "Do The Right Thing",
+          "releaseYear": 1989
+        },
+        {
+          "movieName": "Enter The Dragon",
+          "releaseYear": 1973
+        }
+      ]
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Gill",
+      "favoriteFoods": [
+        "apples",
+        "oranges",
+        "lemons",
+        "quacamole"
+      ],
+      "hotLineBling": true,
+      "favoriteMovies": [
+        {
+          "movieName": "300",
+          "releaseYear": 2006
+        },
+        {
+          "movieName": "The Town",
+          "releaseYear": 2010
+        },
+        {
+          "movieName": "GrandmasBoy",
+          "releaseYear": 2006
+        }
+      ]
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Richard",
+      "favoriteFoods": [
+        "Sushi",
+        "Korean Short Rib Rice Bowl",
+        "Andouille Sausage",
+        "Mac & Dogs (when I'm lazy)"
+      ],
+      "hotLineBling": "False",
+      "favoriteMovies": [
+        {
+          "movieName": "Suspiria",
+          "releaseYear": "1977"
+        },
+        {
+          "movieName": "The Wicker Man",
+          "releaseYear": "1973"
+        },
+        {
+          "movieName": "The Thing",
+          "releaseYear": "1982"
+        },
+        {
+          "movieName": "Repo Man",
+          "releaseYear": "1984"
+        }
+      ]
+    },
+    {
+      "firstName": "Ashley",
+      "lastName": "Steele",
+      "favoriteFoods": [
+        "Sushi",
+        "Korean Short Rib Rice Bowl",
+        "Andouille Sausage",
+        "Mac & Dogs (when I'm lazy)"
+      ],
+      "hotLineBling": "False",
+      "favoriteMovies": [
+        {
+          "movieName": "Sex & the City",
+          "releaseYear": "2008"
+        },
+        {
+          "movieName": "American Gangster",
+          "releaseYear": "2007"
+        },
+        {
+          "movieName": "Houseguest",
+          "releaseYear": "1995"
+        }
+      ]
+    },
+    {
+      "firstName": "Wallace",
+      "lastName": "Wylie",
+      "favouriteFoods": [
+        "Pizza",
+        "Vegetable Curry",
+        "Mock Duck With Rice From Quang"
+      ],
+      "hotLineBline": true,
+      "favoriteMovies": [
+        {
+          "movieName": "Wings Of Desire",
+          "releaseYear": 1987
+        },
+        {
+          "movieName": "Crimes And Misdemeanors",
+          "releaseYear": 1989
+        },
+        {
+          "movieName": "Local Hero",
+          "releaseYear": 1983
+        }
+      ]
+    }
+  ]
+}

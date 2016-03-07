@@ -3,6 +3,7 @@
  */
 var app = angular.module('myApp', ['ngRoute']);
 
+var globalEta = [];
 var globalIota = [];
 var globalKappa = [];
 var globalTheta =[];
@@ -31,6 +32,10 @@ app.config(['$routeProvider','$locationProvider',  function($routeProvider,$loca
             templateUrl: '/views/templates/iota.html',
             controller: 'IotaController'
         })
+        .when('/eta', {
+            templateUrl: '/views/templates/eta.html',
+            controller: 'EtaController'
+        })
         .otherwise({
             redirectTo: '/'
         });
@@ -41,15 +46,12 @@ app.config(['$routeProvider','$locationProvider',  function($routeProvider,$loca
 app.controller('MainController',['$scope','$http',function($scope,$http){
 
     $scope.cat = "/assets/images/KappacatBLUE.png";
-    $scope.title = "Thappa Carousel";
+    $scope.title = "Prime Carousel";
 
     $scope.kappa = function() {
         $http.get('/cohort/kappa').then(function (response) {
             console.log(response.data.kappa);
             globalKappa = response.data.kappa;
-            //for(var i = 0; i< globalKappa.length;i++){
-            //    globalKappa[i].carouselIndex = i ;
-            //}
         });
     };
 
@@ -66,6 +68,15 @@ app.controller('MainController',['$scope','$http',function($scope,$http){
             globalIota = response.data.people;
             for(var i = 0; i<globalIota.length;i++)
             grabMoviePoster(globalIota[i]);
+        });
+    };
+
+    $scope.eta = function() {
+        $http.get('/cohort/eta').then(function (response) {
+            console.log(response.data.eta);
+            globalEta = response.data.eta;
+            for(var i = 0; i<globalEta.length;i++)
+                grabEtaMoviePoster(globalEta[i]);
         });
     };
 
@@ -86,9 +97,27 @@ app.controller('MainController',['$scope','$http',function($scope,$http){
 
     }
 
+    function grabEtaMoviePoster(student) {
+
+        var index = randomNumber(0,student.favoriteMovies.length - 1);
+
+        var id = student.favoriteMovies[index].movieName;
+        $http.get('/cohort/movie/' + id).then(function (response) {
+            //console.log(response.data);
+            student.moviePoster = response.data;
+        });
+
+    }
+
+    function randomNumber (min, max) {
+        return Math.floor(Math.random() * (1 + max - min) + min);
+
+    }
+
     $scope.kappa();
     $scope.theta();
     $scope.iota();
+    $scope.eta();
     $scope.charlie();
 }]);
 
@@ -113,9 +142,17 @@ app.controller('IotaController',['$scope',function($scope){
 
 }]);
 
+app.controller('EtaController',['$scope',function($scope){
+    $scope.students = globalEta;
+
+}]);
+
 app.controller('HomeController',['$scope',function($scope){
    $scope.title = 'Click the Tabs above to pick a cohort.';
 
 }]);
 
+function randomNumber (min, max) {
+    return Math.floor(Math.random() * (1 + max - min) + min);
 
+}

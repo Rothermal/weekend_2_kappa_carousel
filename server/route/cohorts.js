@@ -26,6 +26,11 @@ router.get('/cohort/iota',function(request,response){
     response.sendFile(path.join(__dirname,"../cohorts/iota.json"));
 });
 
+router.get('/cohort/eta',function(request,response){
+    console.log('HotLine Bling.');
+    response.sendFile(path.join(__dirname,"../cohorts/eta.json"));
+});
+
 router.get('/cohort/movie/:id',function(req,res){
     //console.log('movie route fired');
     //console.log(req.params.id);
