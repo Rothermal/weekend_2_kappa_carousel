@@ -3,7 +3,7 @@
  */
 var app = angular.module('myApp', ['ngRoute']);
 
-
+var globalIota = [];
 var globalKappa = [];
 var globalTheta =[];
 var globalCharlie =[];
@@ -26,6 +26,10 @@ app.config(['$routeProvider','$locationProvider',  function($routeProvider,$loca
         .when('/charlie', {
             templateUrl: '/views/templates/charlie.html',
             controller: 'CharlieController'
+        })
+        .when('/iota', {
+            templateUrl: '/views/templates/iota.html',
+            controller: 'IotaController'
         })
         .otherwise({
             redirectTo: '/'
@@ -56,14 +60,35 @@ app.controller('MainController',['$scope','$http',function($scope,$http){
         });
     };
 
+    $scope.iota = function() {
+        $http.get('/cohort/iota').then(function (response) {
+            console.log(response.data.people);
+            globalIota = response.data.people;
+            for(var i = 0; i<globalIota.length;i++)
+            grabMoviePoster(globalIota[i]);
+        });
+    };
+
     $scope.charlie = function() {
         $http.get('/cohort/charlie').then(function (response) {
             console.log(response.data);
             globalCharlie = response.data;
         });
     };
+
+    function grabMoviePoster(student) {
+        //console.log(student.favoriteMovie1);
+        var id = student.favoriteMovie1;
+        $http.get('/cohort/movie/' + id).then(function (response) {
+            //console.log(response.data);
+            student.moviePoster = response.data;
+        });
+
+    }
+
     $scope.kappa();
     $scope.theta();
+    $scope.iota();
     $scope.charlie();
 }]);
 
@@ -83,7 +108,14 @@ app.controller('CharlieController',['$scope',function($scope){
 
 }]);
 
+app.controller('IotaController',['$scope',function($scope){
+    $scope.students = globalIota;
+
+}]);
+
 app.controller('HomeController',['$scope',function($scope){
    $scope.title = 'Click the Tabs above to pick a cohort.';
 
 }]);
+
+
