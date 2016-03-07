@@ -36,5 +36,11 @@ img{
     height: 500px;
 }
 .carousel-indicators {
+    opacity: 0.3;
     background-color: #4377b1;
 }
+/*.food{*/
+    /*height: 25px;*/
+    /*width: 75px;*/
+    /*display: inline;*/
+/*}*/

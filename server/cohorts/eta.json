@@ -147,7 +147,7 @@
     {
       "firstName": "Charlotte",
       "lastName": "Kroening",
-      "favoriteFoods": "[spaghetti, Chinese food, strawberries, chocolate]",
+      "favoriteFoods": ["spaghetti", "Chinese food", "strawberries", "chocolate"],
       "hotLineBling": "false",
       "favoriteMovies": [{
         "movieName":"Good Will Hunting",
@@ -278,7 +278,7 @@
     {
       "firstName": "James",
       "lastName": "Kirwin",
-      "favoriteFood": "['enchiladas', 'pizza', 'Mac and Cheese']",
+      "favoriteFoods": ["Enchiladas", "Pizza", "Mac and Cheese"],
       "hotLineBling": "false",
       "favoriteMovies": [
         {
@@ -298,7 +298,7 @@
     {
       "firstName": "John",
       "lastName": "Crimmings",
-      "favoriteFoods": "['cheese', 'thai', 'mexican']",
+      "favoriteFoods": ["cheese", "thai", "mexican"],
       "hotLineBling": "false",
       "favoriteMovies": [
         {
@@ -318,7 +318,7 @@
     {
       "firstName": "Keisha",
       "lastName": "Josephs",
-      "favoriteFood": [
+      "favoriteFoods": [
         "oxtail",
         "platanos",
         "roti",
@@ -496,7 +496,7 @@
     {
       "firstName": "Wallace",
       "lastName": "Wylie",
-      "favouriteFoods": [
+      "favoriteFoods": [
         "Pizza",
         "Vegetable Curry",
         "Mock Duck With Rice From Quang"

@@ -31,13 +31,15 @@
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
-            <div class="item" ng-repeat="student in students" ng-class="{active : $first}">
+            <div class="item text-center" ng-repeat="student in students" ng-class="{active : $first}">
                 <img class="img-thumbnail img-responsive" ng-src="{{student.moviePoster}}">
 
                 <h3>{{student.firstName}} {{student.lastName}}</h3>
                 <p>Hotline Bling = {{student.hotLineBling}}</p>
-                <!--<p>Runner up : {{student.favoriteMovie2}}</p>-->
-                <!--<p> Favorite Song : <em>{{student.favoriteSong}}</em></p>-->
+                <h4 class="">Foods I Like</h4>
+                <div class="col-md-3" ng-repeat="foods in student.favoriteFoods">
+                <p class="food">{{foods}}</p>
+            </div>
             </div>
 
         </div>
