@@ -169,7 +169,7 @@
       "hotLineBling": false,
       "favoriteMovies": [
         {
-          "movieName": "Star Wars",
+          "movieName": "Star Wars Episode IV",
           "releaseYear": "1977"
         },
         {
@@ -177,7 +177,7 @@
           "releaseYear": "1980"
         },
         {
-          "movieName": "Return of the Jedi",
+          "movieName": "Episode VI  Return of the Jedi",
           "releaseYear": "1981"
         }
       ]
@@ -205,7 +205,7 @@
           "releaseYear": 1998
         },
         {
-          "movieName": "Star Wars",
+          "movieName": "Star Wars Episode IV",
           "releaseYear": "1977-1983"
         }
       ]
@@ -356,7 +356,7 @@
           "releaseYear": "2015"
         },
         {
-          "movieName": "The Anchorman",
+          "movieName": "Anchorman  The Legend of Ron Burgundy",
           "releaseYear": "2004"
         }
       ]
@@ -480,7 +480,7 @@
       "hotLineBling": "False",
       "favoriteMovies": [
         {
-          "movieName": "Sex & the City",
+          "movieName": "Sex and the City",
           "releaseYear": "2008"
         },
         {
