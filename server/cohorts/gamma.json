@@ -1,0 +1,114 @@
+{
+  "gamma":[
+   {
+    "name": "Bob Fix",
+    "desc": "Var enjoyWritingAboutSelf = false;  An inquisitive mind paired with an old soul.  Understanding the 'how' and 'why' of questions and sharing that knowledge with others brings me great joy.  Tactical and strategic, reflecting on past experience and incorporating new knowledge to successfully navigate the way.  Pragmatic, but quietly optimistic, if not idealistic.  Resourceful and persistent, sees tasks through to completion.",
+    "thanks": "Bob made an awesome diagram for team Abject Objects during our group presentation that made it easier for the audience to understand and for us to present."
+    },
+    {
+    "name": "Brandon Negen",
+    "desc": "Hi! I'm Brandon! I'm a fun loving guy who also appreciates what it feels like after a good, hard day of work. I thrive in environments that value working closely with teammates. I find that working with a small group of people really gives me a sense of trust. Having a sense of trust gives everything I do a little more meaning. When in an atmosphere I can thrive in it also makes being able to relax and have fun far more easier for me. I love playing golf (I'd go everyday if I could!). I'm a huge gamer and I love constantly tweeking my home built PC to get the best possible performance from it. Having pets is always something that's been important to me as well. I have a dog and a cat and their personalities never fail to make me smile. Even though I've neglected it for a long time I'm starting to fill my life with things that lift me up, inspire me, and keep me happy.",
+    "thanks": "This is going to sound silly, but I am super appreciative of Brandon killing a spider for me before class started. I have a completely illogical, but very real and occasionally crippling, fear of spiders. When I saw one on the wall, I just calmly asked a group if someone was willing to kill it, and Brandon got up and did so without making me feel like an idiot for having to ask someone to do it. It was probably a small thing for him, but meant a great deal to me!"
+    },
+    {
+    "name": "Cat White",
+    "desc": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "thanks": "Thanks to Cat for the cupcakes!!!!"
+    },
+    {
+      "name": "Cena Mayo",
+    "desc": "I am self-confident, joyfully curious, and intensely focused on projects which engage my desire for life-long learning. I enjoy working with other people and believe that successful teams are made up of people who value one another’s differences.  Lest one think I may be rather a pill after that opening statement, I also enjoy games, yelling goat videos, and your mom.",
+    "thanks": "Cena mentioned how when we were going our project how I had an answer that would have been wrong had I not said anything. It made me feel super good getting that recognition. "
+    },
+    {
+    "name": "Corina Bernstein",
+    "desc": "I love people and life. I love learning about almost anything from someone with passion and interest. Human diversity and all the ways people live and present themselves in the world is fascinating to me. I’ve had an adventurous and patchwork-y kind of life, and have so much gratitude for the diversity of experiences and people this has brought to me. It’s made me a really creative thinker, and I often surprise people with my ideas and perspectives. I love showing people that there are spaces between the creative realm and the analytical realm.",
+    "thanks": "Corina made an awesome peer programming game partner, she was very patient and supportive!"
+    },
+    {
+    "name": "Eric Peters",
+    "desc": "I have always been a very easy person to work with. I have always been willing to provide the role necessary, whether from a leadership or a support perspective, for a project to succeed. I often deep dive into the logic of the foundational information in order to provide understanding across multiple groups about the outcomes of a given project. My experiences have provided me a lot of skills and efficiencies with troubleshooting issues that may provide roadblocks that could prevent a project from moving forward.",
+    "thanks": "Lisa and Eric both really helped a lot with the ajax challenge."
+    },
+    {
+    "name": "Huck Brock",
+    "desc": "I enjoy working with people who share different perspectives and challenge me to grow. I am driven by learning, connecting with others, and causes I care about. It can take me a bit to warm up to a new group, but I enjoy a group that opens up and shares ideas and experiences. I enjoy connecting with people who share different perspectives and challenge me to grow.  I enjoy taking on challenges. I get inspired by new ideas and learning from others.",
+    "thanks": "Matt, Huck, and Cat for great groupmates; Joel for help with project."
+    },
+    {
+    "name": "James Coury",
+    "desc": "ME: I'm a UX designer turned passionate JavaScript developer. I'm looking to find a company that is going somewhere so I can contribute with my hard work and problem solving abilities. THEM: Did you fart? Because you just blew me away!",
+    "thanks": "James had some awesome mac tips for working with Sublime text that has made my life easier and faster to code!"
+    },
+    {
+    "name": "Jim Daniels",
+    "desc": "I can write code and my code works, yes, but a lot of people can do that. How I work in a team is what you really want to know. I am the steady rock, who, when faced with a twist or deadline, doesn’t “freak-out,” but puts his nose down and gets the job done. I am gentle and empathetic, which is part of why I put others at ease. I am good at gauging social temperatures and adjusting to them. I keep teams together and on task and I make sure that everyone feels welcome, needed and useful.",
+    "thanks": "jim helped me make a foam cube 'couch' for us to sit on while we did our pair project. it was great."
+    },
+    {
+    "name": "Josh Keck",
+    "desc": "I'm a software development student learning the MEAN stack. I'm currently looking for opportunities that allow me to work on the full stack. I'm comfortable working in a team environment and enjoy collaborating with others. I'm a problem solver at heart and like tackling new problems every day. Ideally I'm looking for an opportunity that will challenge me on a daily basis and allow me to continue learning new technologies.",
+    "thanks": "Josh - he showed our group a little keyboard shortcut when you are in Terminal and want to cd to a specific folder...a way that you didn't have to type out cd desktop, cd folder, etc etc ... So, that is going to save some time. SUPER AWESOME."
+    },
+    {
+    "name": "Lisa Larson",
+    "desc": "I am a highly motivated person who enjoys working with teams to solve complex problems. My drive as a person helps me stay focused and able to see projects to completion. My experience as a teacher allows me to share my passion for lifelong learning with others. I look forward to a career in software development which will allow me to continue learning as new technology emerges.",
+    "thanks": "Lisa and Eric both really helped a lot with the ajax challenge."
+    },
+    {
+    "name": "Luke Dowell",
+    "desc": "I'm a confident life-long student who enjoys sharing knowledge. I'm passionate about meeting people from all walks of life. I'm not afraid to talk about myself, but I usually cushion those statements with bits of humor. I try and rise to the occasion and enjoy a moderate amount of stress. I love being around people but I appreciate my time alone. I've learned to not sweat the small stuff, and that by applying myself and perservering everything will always work out.",
+    "thanks": "thanks to luke for being very thoughtful and responsive to the others in our group asking him to slow down and explain what his thought process was. i learned a lot from him today."
+    },
+    {
+    "name": "Maria Stommes",
+    "desc": "I’m a thoughtful developer, dedicated to making projects succeed. Resourceful and hard-working, I’m looking forward to being part of a great team.",
+    "thanks": "I thought Maria was a saint during our peer computing challenge today.  She's a great communicator and teammate."
+    },
+    {
+    "name": "Matt Bankston",
+    "desc": "I enjoy the simple things in life.  Making new friends, exploring new ideas,  and living life to the fullest.  I strive to be open in all aspects of my life, and enjoy helping others.  I guess I would describe myself an optimist.  I’m a curious person, always engaged by meeting people, solving problems, and experiencing different cultures.  My thirst for knowledge often leads to an extremely excessive amount of Chrome tabs open.  The concept of describing myself does not come naturally though.  I would much rather have my actions define me than try to sum up an infinite amount of small individual experiences in a single paragraph.",
+    "thanks": "Thanks to Matt for always coming over to your peers and asking how we're doing, even if we aren't asking. You're an inspiration."
+    },
+    {
+    "name": "Mikel Severson",
+    "desc": "is a self critical person driven by becoming a better learner, thinker, and values being kind to one another. Motivated by building applications that improve people's day-to-day life, and believes technology provides the tools to better oneself. Struggles with completing projects, rather is inspired by exploring the creative process with people. Has a cat, 12 chickens, and 1700 honeybees. ",
+    "thanks": "I'd like to thank everyone who spoke about themselves today, especially Mikel. I LOVED his speech and really appreciate him as a classmate."
+    },
+    {
+    "name": "PR Stafki",
+    "desc": "I’m a team member, with a love of making the group feel comfortable as a whole, and keeping situations lighthearted. I love bouncing ideas off the team and thinking through a problem within a group setting. Taking those ideas, watching the moving parts come together and seeing it come to fruition is the icing on the cake for me. The end goal is the source of my self-motivation.",
+    "thanks": "Lots of thanks to PR for being supportive today!!"
+    },
+    {
+    "name": "Ryan Brunt",
+    "desc": "Hi I’m Ryan, I’m a graduate of Wisconsin-Eau Claire with degrees in Mathematics and Economics and am now part of a code bootcamp called Prime Digital Academy. Throughout my life I’ve had a passion for learning new things, and through this program I’ve found a field that provides endless amounts of areas to continue learning. I’m also an athlete that has, and still is, competing at the sports highest level. I’ve learned from this the rewards of setting goals, putting your head down and seeing what can be accomplished. At the same time I’ve learned what its like to fail, and how to learn from it and move forward. I love meeting new people, taking on new challenges and think I could be a great asset at this position and the company as a whole.",
+    "thanks": "Erik and Ryan, for being awesome group partners."
+    },
+    {
+    "name": "Sam Sunders",
+    "desc": "I am extremely upbeat and positive about my surroundings. I have a tendency to lighten the mood with jokes in otherwise tense situations be it individual or in a group, because I don’t like to see others (or myself) struggle. Even when I fail, I see it as just a bump in the road and not a road block, even when I find myself slamming into a mile long concrete barricade. Also just knowing that every time you have to have those imaginary stitches in your forehead, life goes on and and I will heal while dominating.",
+    "thanks": "Samantha, shes fun to work with and has a sense of humor that makes working through pairs projects very easy."
+    },
+    {
+    "name": "Sarah Doire",
+    "desc": "I am a keen observer of people and situations who is self-motivated and quietly driven to succeed. I am empathetic and curious about people’s differences and want to be helpful when possible without being overbearing. I love solving logic problems and am infinitely curious about history and its impact on modern society.",
+    "thanks": "I'd like to thank Sarah for being a cool partner in the peer challenge today. She is super interested in coding and getting better and that is enjoyable to be around."
+    },
+    {
+    "name": "Skyler DeGrote",
+    "desc": "I am a dedicated person with the passion to keep a project going until it's finished. I've written and published two books while going to college full time so I would also say I have the ability to work on multiple projects at once and still give my full attention to each. I am a hard working, perfectionist that always tries to go above and beyond the requirements. I love collaboration and working with others, but also have the mind set to set off on my own to problem solve.",
+    "thanks": "The thanks goes out to Skyler for being an awesome member of the cohort. She was really friendly and asked some great questions at the mentoship meetup!"
+    },
+    {
+    "name": "Suren Vijayakumar",
+    "desc": "Keen learner, who tries to go beyond  the superficial in order to grasp the deeper meaning of things and how they relate to each other. Risk taker, futuristic, enjoys creating something new , going from zero to one. Sees the various future possibilities of everything, including how they can go wrong.",
+    "thanks": "Suren was awesome in helping me get my code debugged!"
+    },
+    {
+    "name": "Tara Newberry",
+    "desc": "A coding ninja-in-training (© Cat) who constantly strives to better myself by increasing my knowledge and understanding. I’m an empathetic introvert who likes thinking through complex concepts independently but I’m able to ensure the learning needs of everyone in the group are being met. I’m not afraid to admit mistakes or when I don’t know something because that’s the only way to improve. I enjoy working independently but I really thrive in environments in which I can tackle projects in a group.",
+    "thanks": "Tara and I worked really well together on the team project, thanks for the help! "
+    }
+  ]
+}

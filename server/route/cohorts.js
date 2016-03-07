@@ -16,6 +16,21 @@ router.get('/cohort/theta',function(request,response){
     response.sendFile(path.join(__dirname,"../cohorts/theta.json"));
 });
 
+router.get('/cohort/gamma',function(request,response){
+    console.log('youve hit the gamma route');
+    response.sendFile(path.join(__dirname,"../cohorts/gamma.json"));
+});
+
+router.get('/cohort/zeta',function(request,response){
+    console.log('youve hit the zeta route');
+    response.sendFile(path.join(__dirname,"../cohorts/zeta.json"));
+});
+
+router.get('/cohort/epsilon',function(request,response){
+    console.log('youve hit the epsilon route');
+    response.sendFile(path.join(__dirname,"../cohorts/epsilon.json"));
+});
+
 router.get('/cohort/charlie',function(request,response){
     console.log('charlie lives and dies in here');
     response.sendFile(path.join(__dirname,"../cohorts/charlie.json"));
